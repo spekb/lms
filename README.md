@@ -22,7 +22,7 @@ File > New Window
 ![image](https://github.com/user-attachments/assets/f601336d-fb75-43c6-8cbc-0490a54b88a7)
 Clone Git Repository
 
-Copy paste this URL
+Copy paste this URL into the dialogue box that appears
 https://github.com/luke-da-nuke/lms/
 
 Select a folder to clone to
