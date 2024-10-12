@@ -7,7 +7,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 
 
 app = Flask(__name__)
-BASE_DIR = "C:/Users/luke/Documents/lms18aug/resources"         #change this to fit your pc
+BASE_DIR = "resources"
 auth = HTTPBasicAuth()
 
 users = {
