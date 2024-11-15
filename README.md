@@ -7,17 +7,17 @@ One of my main focuses as part of the Kalahari Education Experience Project has 
 
 Here are some screenshots of what it looks like
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d57b32b7-6523-4590-8e9b-12582ab978ad/d3280c8a-f587-4b55-b587-934081adab94/Untitled.png)
+![1](https://github.com/user-attachments/assets/bd38d50f-558e-4b47-af4b-ce9478f197d0)
 
 Landing Page
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d57b32b7-6523-4590-8e9b-12582ab978ad/cfcd1192-4a12-4f99-b690-6f418d25290f/Untitled.png)
+![2](https://github.com/user-attachments/assets/8f6efeca-f59c-40df-95e4-2f4dc3aa0481)
+![3](https://github.com/user-attachments/assets/a2639f81-36cc-447e-ac3b-642432cabc18)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d57b32b7-6523-4590-8e9b-12582ab978ad/93a03fbe-3b6c-4df5-98e8-c5471d36143b/Untitled.png)
 
 Student created content and past papers
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d57b32b7-6523-4590-8e9b-12582ab978ad/d1019fc2-9db1-4c39-94eb-66a3ced919eb/Untitled.png)
+![4](https://github.com/user-attachments/assets/ec103771-77d6-42b0-b943-b42f35f55907)
 
 Student made videos explaining important content
 
